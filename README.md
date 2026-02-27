@@ -2,11 +2,11 @@
 
 # Momentální stav mé práce
 
-Zabbix server a PFsense je instalován ručně.
+Zabbix server a pfSense je instalován ručně.
 
-Zabbix server je plně funkční a vyčkává na zprovoznění PFsense.
+Zabbix server je plně funkční a vyčkává na zprovoznění pfSense.
 
 ### TODO:
-- Opravit PFsense nebo reinstalovat pomocí Vagrantu
+- Opravit pfSense nebo reinstalovat pomocí Vagrantu
 - Nastavit SNMP na PFsense a Zabbix server pro monitorování
 - Nafotit více obrázků

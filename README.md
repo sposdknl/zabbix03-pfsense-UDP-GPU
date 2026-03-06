@@ -4,9 +4,17 @@
 
 Zabbix server a pfSense je instalován ručně.
 
-Zabbix server je plně funkční a vyčkává na zprovoznění pfSense.
+pfSense router se zapnutým SNMP:
+![pfSense SNMP](./Images/pfSense%20SNMP.png)
 
-### TODO:
-- Opravit pfSense nebo reinstalovat pomocí Vagrantu
-- Nastavit SNMP na PFsense a Zabbix server pro monitorování
-- Nafotit více obrázků
+pfSense s automatizovaným DHCP:
+![pfSense DHCP leases](./Images/pfSense%20DHCP%20leases.png)
+
+pfSense homepage:
+![pfSense homepage](./Images/pfSense%20homepage.png)
+
+Aktualizovaný Zabbix:
+![zabbix version](./Images/Zabbix%20version.png)
+
+Zabbix se SNMP monitoringem:
+![zabbix SNMP](./Images/Zabbix%20SNMP.png)
